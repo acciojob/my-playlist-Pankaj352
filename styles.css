@@ -52,6 +52,9 @@ ul > li > a {
   max-width: 600px;
   margin: 10px auto;
   display: block;
+	padding:1px;
+	border-radius:1px;
+background-color:white;
 }
 
 .player_two {
@@ -60,6 +63,9 @@ ul > li > a {
   max-width: 600px;
   margin: 10px auto;
   display: block;
+	background-color:white;
+	border-radius:1px;
+	padding:1px;
 }
 
 .mp3-heading {
